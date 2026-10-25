@@ -55,7 +55,7 @@
     </td>
     <td align="center" valign="top" width="33%">
       <b>Full-Stack & Tools</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,html,css,git,github,postman,vscode&theme=dark&perline=4" alt="Full-stack and tools"/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,html,css,git,github,postman&theme=dark&perline=4" alt="Full-stack and tools"/><br/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
       <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI"/>
     </td>
