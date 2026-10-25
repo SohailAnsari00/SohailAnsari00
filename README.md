@@ -35,25 +35,32 @@
 
 <div align="center">
 
-**Languages & Databases**<br/>
-<img src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,postgres&theme=dark" alt="Languages and databases"/>
-
-**Data & Analytics**<br/>
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-<img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-<img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
-<img src="https://img.shields.io/badge/NLTK-NLP-2E7D32?style=for-the-badge" alt="NLTK"/>
-
-**Full-Stack & Tools**<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,html,css,git,github,postman,vscode&theme=dark" alt="Full-stack and tools"/>
-<br/>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Prompt%20Engineering-8A2BE2?style=for-the-badge" alt="Generative AI"/>
+<table>
+  <tr>
+    <td align="center" valign="top" width="33%">
+      <b>Languages & Databases</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,postgres&theme=dark&perline=3" alt="Languages and databases"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Data & Analytics</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
+      <img src="https://img.shields.io/badge/NLTK-NLP-2E7D32?style=for-the-badge" alt="NLTK"/>
+    </td>
+    <td align="center" valign="top" width="33%">
+      <b>Full-Stack & Tools</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,firebase,tailwind,bootstrap,html,css,git,github,postman,vscode&theme=dark&perline=4" alt="Full-stack and tools"/><br/>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI"/>
+    </td>
+  </tr>
+</table>
 
 </div>
 
