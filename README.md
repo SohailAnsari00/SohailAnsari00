@@ -20,9 +20,9 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
-<div align="center">
+<div align="left">
 
-<h4><i>Where Data Meets Intelligence</i></43>
+<h4><i>Where Data Meets Intelligence</i></h4>
 
 <p>I am a CSE graduate specialised in <b>AI &amp; ML</b>, with a growing focus on <b>data analytics</b> and <b>data engineering</b> — I build ETL pipelines, BI dashboards, and machine learning models that turn raw data into intelligent, real-world solutions. Full-stack development experience rounds out how I ship complete, production-ready products.</p>
 
