@@ -56,9 +56,9 @@
     <td align="center" valign="top" width="33%">
       <b>Full-Stack & Tools</b><br/><br/>
       <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nodejs,express,firebase,git,github,postman&theme=dark&perline=4" alt="Full-stack and tools"/><br/>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+
       
-    </td>
+  </td>
   </tr>
 </table>
 
