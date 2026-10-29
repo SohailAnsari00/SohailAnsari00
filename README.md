@@ -22,11 +22,9 @@
 <!-- ===================== ABOUT ===================== -->
 <div align="center">
 
-<h1>SOHAIL<br/>ANSARI</h1>
+<h4><i>Where Data Meets Intelligence</i></43>
 
-<h3><i>Where Data Meets Intelligence</i></h3>
-
-<p>CS graduate specialised in <b>AI &amp; ML</b>, with a growing focus on <b>data analytics</b> and <b>data engineering</b> — I build ETL pipelines, BI dashboards, and machine learning models that turn raw data into intelligent, real-world solutions. Full-stack development experience rounds out how I ship complete, production-ready products.</p>
+<p>I am a CSE graduate specialised in <b>AI &amp; ML</b>, with a growing focus on <b>data analytics</b> and <b>data engineering</b> — I build ETL pipelines, BI dashboards, and machine learning models that turn raw data into intelligent, real-world solutions. Full-stack development experience rounds out how I ship complete, production-ready products.</p>
 
 </div>
 
