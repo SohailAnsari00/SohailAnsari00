@@ -67,7 +67,7 @@
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats & Contributions
 
-<div align="center">
+<div align="left">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SohailAnsari00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAnsari00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4" alt="Top languages"/>
@@ -84,19 +84,6 @@
 
 </div>
 
-<!-- ===== CONTRIBUTION SNAKE ===== -->
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SohailAnsari00/SohailAnsari00/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SohailAnsari00/SohailAnsari00/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/SohailAnsari00/SohailAnsari00/output/snake-light.svg" />
-</picture>
-
-</div>
-
-<!-- ===== END SNAKE ===== -->
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
