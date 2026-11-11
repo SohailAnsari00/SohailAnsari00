@@ -74,26 +74,14 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SohailAnsari00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAnsari00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4" alt="Top languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohailAnsari00&theme=tokyonight" alt="GitHub stats"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohailAnsari00&theme=tokyonight" alt="GitHub profile details and contributions"/>
 
-<br/>
+<img width="100%" src="https://streak-stats.demolab.com?user=SohailAnsari00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5D4&sideLabels=A78BFA&dates=9CA3AF" alt="GitHub streak"/>
 
-<img src="https://streak-stats.demolab.com?user=SohailAnsari00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailAnsari00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=302b63&point=ffffff" alt="Contribution activity graph"/>
-
-<br/>
-
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
-<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SohailAnsari00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
 
 </div>
 
