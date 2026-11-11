@@ -20,11 +20,17 @@
 <br/>
 
 <!-- ===================== ABOUT ===================== -->
+## 👋 About Me
+
 <div align="left">
 
 <h4><i>Where Data Meets Intelligence</i></h4>
 
-<p>I am a CSE graduate specialised in <b>AI &amp; ML</b>, with a growing focus on <b>data analytics</b> and <b>data engineering</b> — I build ETL pipelines, BI dashboards, and machine learning models that turn raw data into intelligent, real-world solutions. Full-stack development experience rounds out how I ship complete, production-ready products.</p>
+<p>I'm a <b>Computer Science graduate (AI &amp; ML)</b> from <b>GB Pant Institute of Engineering &amp; Technology, Pauri Garhwal</b>, currently focused on <b>data analytics</b>, <b>data engineering</b> and <b>AI</b>. I have hands-on experience building <b>ETL pipelines</b>, <b>BI dashboards</b> and <b>machine learning systems</b>, backed by <b>full-stack development</b> experience from internships and personal projects.</p>
+
+<p>My work sits at the intersection of data engineering and artificial intelligence, from designing <b>Power BI</b> dashboards and <b>MySQL</b> data warehouses to building and deploying <b>NLP</b> and <b>forecasting</b> models.</p>
+
+<p>As a fresher, I'm actively looking for roles in <b>data analytics</b>, <b>data engineering</b> or <b>AI/ML</b> where I can grow fast and contribute meaningfully.</p>
 
 </div>
 
@@ -33,100 +39,69 @@
 
 <div align="center">
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" valign="top" width="33%">
-      <b><h6>h6Languages & Databases</h6></b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,postgres,mongodb&theme=dark&perline=3" alt="Languages and databases"/>
+      <h3>Languages &amp; Databases</h3>
+      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,postgres,mongodb&theme=dark&perline=4" alt="Python, C, C++, JavaScript, MySQL, PostgreSQL, MongoDB"/>
     </td>
-    <td align="center" valign="top" width="33%">
-      <b><h6>Data & Analytics</h6></b><br/><br/>
-      <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-      <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/>
-      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-      <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
-      <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
-      <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
-      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-      <img src="https://img.shields.io/badge/NLTK-NLP-2E7D32?style=for-the-badge" alt="NLTK"/>
+    <td align="center" valign="top" width="34%">
+      <h3>Data &amp; Analytics</h3>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy"/>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=flat-square" alt="Seaborn"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
+      <img src="https://img.shields.io/badge/NLTK-2E7D32?style=flat-square" alt="NLTK"/>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
+      <img src="https://img.shields.io/badge/ETL-302B63?style=flat-square" alt="ETL"/>
       <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI"/>
     </td>
     <td align="center" valign="top" width="33%">
-      <b><h6>Full-Stack & Tools</h6></b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nodejs,express,firebase,git,github,postman&theme=dark&perline=4" alt="Full-stack and tools"/><br/>
-
-      
-  </td>
-  </tr>
-</table>
-
-</div>
-
-
-<div align="center">
-
-<table>
-  <tr>
-    <!-- Languages & Databases -->
-    <td align="center" valign="top" width="33%">
-      <h3>Languages & Databases</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=py,c,cpp,js,mysql,postgres,mongodb&theme=dark&perline=3" alt="Languages and Databases"/>
-    </td>
-   <td align="center" valign="top" width="33%">
-  <h3>Data & Analytics</h3>
-  <div align="center">
-    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-    <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"/><img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib"/>
-    <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" alt="Seaborn"/>
-    <img src="https://skillicons.dev/icons?i=powerbi&theme=dark" alt="Power BI"/>
-    <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Advanced Excel"/>
-    <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn"/>
-    <img src="https://img.shields.io/badge/NLTK-NLP-2E7D32?style=for-the-badge" alt="NLTK"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit"/>
-    <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square" alt="Generative AI"/>
-  </div>
-</td>
-    <td align="center" valign="top" width="33%">
-      <h3>Full-Stack & Tools</h3>
-      <br/>
-      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nodejs,express,firebase,git,github,postman&theme=dark&perline=4" alt="Full-Stack and Tools"/>
+      <h3>Full-Stack &amp; Tools</h3>
+      <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,bootstrap,nodejs,express,firebase,git,github,postman&theme=dark&perline=4" alt="HTML, CSS, React, Tailwind, Bootstrap, Node.js, Express, Firebase, Git, GitHub, Postman"/>
     </td>
   </tr>
 </table>
 
 </div>
-
 
 <!-- ===================== STATS ===================== -->
 ## 📊 GitHub Stats & Contributions
 
-<div align="left">
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=SohailAnsari00&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4" alt="GitHub stats"/>
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SohailAnsari00&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5D4" alt="Top languages"/>
 
+<br/>
+
 <img src="https://streak-stats.demolab.com?user=SohailAnsari00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4" alt="GitHub streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailAnsari00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=302b63&point=ffffff" alt="Contribution graph"/>
+<br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" height="170" alt="Repos per language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" height="170" alt="Most committed language"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" height="170" alt="Productive time"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SohailAnsari00&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F5D4&line=302b63&point=ffffff" alt="Contribution activity graph"/>
+
+<br/>
+
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+
+<br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=SohailAnsari00&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub trophies"/>
 
 </div>
-
 
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
 *"Without data, you're just another person with an opinion."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:302b63,100:0f0c29&height=120&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:302b63,100:0f0c29&height=120&section=footer" alt="Footer wave" />
 
 </div>
