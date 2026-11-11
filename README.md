@@ -75,15 +75,15 @@
 <div align="center">
 
 <img width="60%" src="https://streak-stats.demolab.com?user=SohailAnsari00&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5D4&sideLabels=A78BFA&dates=9CA3AF" alt="GitHub streak"/>
-<img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohailAnsari00&theme=tokyonight" alt="GitHub stats"/>
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SohailAnsari00&theme=tokyonight" alt="GitHub stats"/>
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohailAnsari00&theme=tokyonight" alt="GitHub profile details and contributions"/>
+<img width="99%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SohailAnsari00&theme=tokyonight" alt="GitHub profile details and contributions"/>
 
 
 
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
+<img width="33%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
 
 </div>
 
