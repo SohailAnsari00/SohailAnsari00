@@ -81,9 +81,9 @@
 
 
 
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
-<img width="32.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
+<img width="32.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SohailAnsari00&theme=tokyonight" alt="Repos per language"/>
+<img width="32.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SohailAnsari00&theme=tokyonight" alt="Most committed language"/>
+<img width="32.7%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SohailAnsari00&theme=tokyonight&utcOffset=5.5" alt="Productive time"/>
 
 </div>
 
